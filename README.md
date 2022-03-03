@@ -1,7 +1,7 @@
 # Monitor plugin for Django Rest Framework
 
 ## What is it?
-....
+...
 
 ## How to use it?
 ### Installation
@@ -100,7 +100,7 @@ MONITOR_ASYNC_CALLING = True
 ### MONITOR_IGNORE_LIST - list of ignored errors
 Example:
 ```python
-MONITOR_IGNORE_LIST   = [
+MONITOR_IGNORE_LIST = [
     "ValidationError",
     "TypeError"
 ]
