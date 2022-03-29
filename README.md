@@ -1,7 +1,7 @@
 # Monitor plugin for Django Rest Framework
 
 ## What is it?
-It is a monitor plugin for `Django Rest Framework` that handles exceptions in yout django project and allows you to see some code errors with using `Monitor App`. 
+This is a monitor plugin for `Django Rest Framework` that handles exceptions in your django project and allows you to see some code errors with using `Monitor App`. 
 
 ## How to use it?
 ### Installation
